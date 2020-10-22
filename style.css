@@ -181,8 +181,3 @@ body{
     font-size: xx-large;
 }
 
-#msg2{
-    bottom: 0%;
-    transform: translateY(150px);
-    background: #777;
-}
